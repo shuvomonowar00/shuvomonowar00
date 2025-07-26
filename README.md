@@ -27,7 +27,7 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="24" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=FF9900" height="24" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-222F3E?style=for-the-badge&logoColor=FF9900" height="24" alt="AWS" />
 
   <!-- Data & ML -->
   <img src="https://img.shields.io/badge/NumPy-4B8BBE?logo=numpy&logoColor=white&style=for-the-badge" height="24" alt="NumPy" />
