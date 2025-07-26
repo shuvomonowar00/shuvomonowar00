@@ -2,8 +2,8 @@
 <h1 align="left">👋 Hi, I'm Monowar Hossain Shuvo</h1>
 
 <p align="left">
-  A passionate <strong>Software Engineer</strong>, <strong>Machine Learning Enthusiast</strong>, and <strong>Aspiring Data Engineer</strong> from <strong>Bangladesh</strong>.  
-  I enjoy building scalable backend systems, exploring the potential of AI, and working with data-driven technologies to solve real-world problems.
+  A passionate software engineer focused on backend development, and an enthusiastic learner and researcher in machine learning, NLP, LLMs, and data engineering. 
+  I enjoy building scalable backend systems and exploring AI-powered, data-driven solutions to real-world problems.
 </p>
 
 ---
