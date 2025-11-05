@@ -2,7 +2,7 @@
 <h1 align="left">👋 Hi, I'm Monowar Hossain Shuvo</h1>
 
 <p align="left">
-  A passionate software engineer focused on backend development, and an enthusiastic learner and researcher in machine learning, NLP, LLMs, and data engineering. 
+  A passionate software engineer focused on backend development, and an enthusiastic learner and researcher in machine learning, deep learning, NLP, LLMs, and data engineering. 
   I enjoy building scalable backend systems and exploring AI-powered, data-driven solutions to real-world problems.
 </p>
 
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="24" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="24" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" height="24" alt="Vue.js" />
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="24" alt="MySQL" />
@@ -36,6 +35,10 @@
   <img src="https://img.shields.io/badge/Pandas-130754?logo=pandas&logoColor=white&style=for-the-badge" height="24" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="24" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="24" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" height="24" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-243C3A?logo=langchain&logoColor=white&style=for-the-badge" height="24" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1D435F?logo=langchain&logoColor=white&style=for-the-badge" height="24" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Qdrant-FF6F61?logo=qdrant&logoColor=white&style=for-the-badge" height="24" alt="Qdrant" />
 </div>
 
 ---
@@ -57,18 +60,18 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shuvomonowar00/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=flat" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/shuvomonowar00/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="Facebook" />
   </a>
   <a href="https://x.com/shuvomonowar00" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="Twitter" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="X (Twitter)" />
   </a>
-  <a href="mailto:monowar1611998@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="25" alt="Outlook" />
+  <a href="mailto:monowar1611998@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="25" alt="Outlook" />
   </a>
-  <a href="mailto:monowar1611998@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="Gmail" />
+  <a href="mailto:monowar1611998@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=flat" height="25" alt="Gmail" />
   </a>
 </div>
