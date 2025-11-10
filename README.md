@@ -2,8 +2,7 @@
 <h1 align="left">👋 Hi, I'm Monowar Hossain Shuvo</h1>
 
 <p align="left">
-  A passionate software engineer focused on backend development, and an enthusiastic learner and researcher in machine learning, deep learning, NLP, LLMs, and data engineering. 
-  I enjoy building scalable backend systems and exploring AI-powered, data-driven solutions to real-world problems.
+  Backend Software Engineer focused on scalable systems and system design. I am currently bridging my backend expertise with AI by actively learning Deep Learning, LLMs, and Agent AI.
 </p>
 
 ---
