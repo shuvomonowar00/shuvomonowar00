@@ -2,7 +2,7 @@
 <h1 align="left">👋 Hi, I'm Monowar Hossain Shuvo</h1>
 
 <p align="left">
-  Backend Software Engineer focused on scalable systems and system design. I am currently bridging my backend expertise with the field of AI by actively learning Deep Learning, LLM Engineering, and LLMOps.<br>
+  Backend Software Engineer with a strong foundation in scalable systems and system design. I am currently bridging my backend expertise with the field of AI by actively learning Deep Learning, LLM Engineering, and LLMOps.<br>
   • Key Interests: Backend Engineering, System Design, Deep Learning, LLM Engineering, LLMOps
 </p>
 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="24" alt="GitHub" />
   <!-- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" height="24" alt="GitHub Actions" /> -->
-  <!-- <img src="https://img.shields.io/badge/AWS-242F3E?style=for-the-badge&logoColor=FF9900" height="24" alt="AWS" /> -->
+  <img src="https://img.shields.io/badge/AWS-242F3E?style=for-the-badge&logoColor=FF9900" height="24" alt="AWS" />
 
   <!-- Data & ML -->
   <img src="https://img.shields.io/badge/NumPy-4B8BBE?logo=numpy&logoColor=white&style=for-the-badge" height="24" alt="NumPy" />
