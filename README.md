@@ -54,8 +54,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvomonowar00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="150" alt="Top Languages" />  
-<!--   <img src="https://streak-stats.demolab.com/?user=shuvomonowar00&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" /> -->
-  <img src="https://github-profile-trophy.vercel.app?username=shuvomonowar00&theme=flat&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophy" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=shuvomonowar00&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=shuvomonowar00&theme=flat&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophy" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvomonowar00&radius=16&theme=github-light&area=true&custom_title=Contribution%20Graph" height="300" alt="Activity Graph" />
 </div>
 
