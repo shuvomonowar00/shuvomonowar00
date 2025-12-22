@@ -154,7 +154,7 @@
 </div> -->
 
 <!-- Beautiful Version -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/shuvomonowar00/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
@@ -169,6 +169,32 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="mailto:monowar1611998@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook" />
+  </a>
+  <a href="mailto:monowar1611998@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+  </a>
+</div> -->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shuvomonowar00/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/shuvomonowar00/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />
+  </a>
+  <a href="https://www.facebook.com/shuvomonowar00/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
+  </a>
+  <a href="https://x.com/shuvomonowar00" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X (Twitter)" />
+  </a>
+  <a href="https://discord.com/users/shuvomonowar00" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
+  </a>
+</div>
 <div align="center">
   <a href="mailto:monowar1611998@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook" />
