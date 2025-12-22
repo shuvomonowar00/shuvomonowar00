@@ -2,8 +2,7 @@
 <h1 align="left">👋 Hi, I'm Monowar Hossain Shuvo</h1>
 
 <p align="left">
-  Backend Software Engineer with a strong foundation in scalable systems and system design. I am currently bridging my backend expertise with the field of AI by actively learning Deep Learning, LLM Engineering, and LLMOps.<br>
-  • Key Interests: Backend Engineering, System Design, Deep Learning, LLM Engineering, LLMOps
+  Computer Science graduate with a strong foundation in backend software engineering and scalable system design. Experienced in developing backend systems, with expertise in LLM engineering and Explainable AI research.
 </p>
 
 ---
@@ -20,14 +19,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="React" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="24" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="24" alt="PostgreSQL" />
-  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="24" alt="MongoDB" /> -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="24" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="24" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="24" alt="Redis" />
 
   <!-- Tools -->
   <!-- <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge" height="24" alt="Kafka" /> -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="24" alt="Ubuntu" />
+  <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="24" alt="Ubuntu" /> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="24" alt="Docker" />
   <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="24" alt="Kubernetes" /> -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="Git" />
@@ -37,14 +36,14 @@
 
   <!-- Data & ML -->
   <img src="https://img.shields.io/badge/NumPy-4B8BBE?logo=numpy&logoColor=white&style=for-the-badge" height="24" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-130754?logo=pandas&logoColor=white&style=for-the-badge" height="24" alt="Pandas" />
+  <!-- <img src="https://img.shields.io/badge/Pandas-130754?logo=pandas&logoColor=white&style=for-the-badge" height="24" alt="Pandas" /> -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="24" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="24" alt="PyTorch" />
   <!-- <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" height="24" alt="Hugging Face" /> -->
   <img src="https://img.shields.io/badge/LangChain-243C3A?logo=langchain&logoColor=white&style=for-the-badge" height="24" alt="LangChain" />
   <!-- <img src="https://img.shields.io/badge/LangGraph-1D435F?logo=langchain&logoColor=white&style=for-the-badge" height="24" alt="LangGraph" /> -->
   <!-- <img src="https://img.shields.io/badge/ChromaDB-000000?logo=chromadb&logoColor=white&style=for-the-badge" height="24" alt="ChromaDB" /> -->
-  <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white&style=for-the-badge" height="24" alt="Pinecone" />
+  <!-- <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white&style=for-the-badge" height="24" alt="Pinecone" /> -->
 </div>
 
 ---
