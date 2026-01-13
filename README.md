@@ -19,15 +19,15 @@
 <!-- Beautiful Version -->
 <div align="center">
   <h1 style="color:#000000;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Monowar+Hossain+Shuvo;Backend+Software+Engineer;LLM+%26+AI+Enthusiast;Explainable+AI+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Monowar+Hossain+Shuvo;Backend+Software+Engineer;LLMs+%26+Applied+AI+Enthusiast" alt="Typing SVG" />
   </h1>
   
   <p align="center" style="color:#000000; font-size: 18px; max-width: 800px; margin: 20px auto;">
-    🎓 <b>Computer Science Graduate</b> with a strong foundation in <b>Backend Software Engineering</b> and <b>Scalable System Design</b>
+    🎓 Computer Science graduate with a foundation in backend development and system design
     <br><br>
-    💻 Experienced in developing <b>robust backend systems</b> with expertise in <b>LLM Engineering</b> and <b>Explainable AI Research</b>
+    💻 Currently learning applied AI with a focus on LLMs and exploring domain-specific LLM research
     <br><br>
-    🚀 Passionate about building <b>scalable solutions</b> that solve real-world problems
+    🚀 Passionate about creating scalable solutions to solve real-world problems
   </p>
 
   <p align="center">
@@ -154,37 +154,24 @@
 </div> -->
 
 <!-- Beautiful Version -->
-<!-- <div align="center">
-  <a href="https://www.linkedin.com/in/shuvomonowar00/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/shuvomonowar00/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
-  </a>
-  <a href="https://x.com/shuvomonowar00" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X (Twitter)" />
-  </a>
-  <a href="https://discord.com/users/shuvomonowar00" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
-  </a>
-</div>
-
 <div align="center">
-  <a href="mailto:monowar1611998@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook" />
-  </a>
-  <a href="mailto:monowar1611998@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-</div> -->
-
-<div align="center">
+  <!-- Professional / Developer Profiles -->
   <a href="https://www.linkedin.com/in/shuvomonowar00/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/shuvomonowar00/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />
   </a>
+  <a href="https://www.hackerrank.com/shuvomonowar00" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/shuvomonowar" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces" />
+  </a>
+  <a href="https://www.kaggle.com/shuvomonowar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" alt="Kaggle" />
+  </a>
+  <!-- Social Profiles -->
   <a href="https://www.facebook.com/shuvomonowar00/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
   </a>
@@ -195,7 +182,9 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
   </a>
 </div>
+
 <div align="center">
+  <!-- Email -->
   <a href="mailto:monowar1611998@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook" />
   </a>
