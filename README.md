@@ -30,10 +30,10 @@
     🚀 Passionate about creating scalable solutions to solve real-world problems
   </p>
 
-  <p align="center">
+  <!-- <p align="center">
     <img src="https://komarev.com/ghpvc/?username=shuvomonowar00&label=Profile%20Views&color=EE4C2C&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/shuvomonowar00?label=Followers&style=flat-square&color=EE4C2C&logo=github" alt="GitHub Followers" />
-  </p>
+  </p> -->
 </div>
 
 ---
