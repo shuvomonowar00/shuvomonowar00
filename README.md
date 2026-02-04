@@ -11,13 +11,15 @@
 <!-- Introduction -->
 <div align="center">
   <h1 style="color:#000000;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Monowar+Hossain+Shuvo;Software+Engineer+(Backend+%26+Data);AI+%26+Data+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Monowar+Hossain+Shuvo;Backend+Software+Engineer;NLP+%26+LLM+Enthusiast" alt="Typing SVG" />
 </h1>
   
-  <p align="center" style="color:#000000; font-size: 18px; max-width: 800px; margin: 20px auto;">
-    💻 Backend- and data-focused software engineer
+  <p align="left" style="color:#000000; font-size: 18px; max-width: 800px; margin: 20px auto;">
+    💻 Backend Software Engineer
     <br>
-    🚀 Learning System Design, Data Engineering, Data Science & Applied AI
+    🛠️ Focused on scalable system design and backend architecture
+    <br>
+    🚀 Learning Deep Learning, NLP & Large Language Models
   </p>
 
   <!-- <p align="center">
@@ -62,7 +64,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="NumPy" />
 <!-- <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" height="30" alt="LangChain" /> -->
 <!-- <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="Pandas" /> -->
-<!-- <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" height="30" alt="Hugging Face" /> -->
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" height="30" alt="Hugging Face" />
 <!-- <img src="https://img.shields.io/badge/LangGraph-1D435F?logo=langchain&logoColor=white&style=for-the-badge" height="30" alt="LangGraph" /> -->
 <!-- <img src="https://img.shields.io/badge/ChromaDB-000000?logo=chromadb&logoColor=white&style=for-the-badge" height="30" alt="ChromaDB" /> -->
 <!-- <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white&style=for-the-badge" height="30" alt="Pinecone" /> -->
