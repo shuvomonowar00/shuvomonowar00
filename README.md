@@ -19,7 +19,7 @@
     <br>
     🛠️ Focused on scalable system design and backend architecture
     <br>
-    🚀 Learning Deep Learning, NLP & Large Language Models
+    🚀 Exploring and Learning LLMs & Multimodal AI
   </p>
 
   <!-- <p align="center">
