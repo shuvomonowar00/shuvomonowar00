@@ -19,7 +19,7 @@
     <br>
     🛠️ Focused on scalable system design and backend architecture
     <br>
-    🚀 Exploring and Learning LLMs & Multimodal AI
+    🚀 Exploring and Learning LLMs, Multimodal AI & Knowledge Graphs
   </p>
 
   <!-- <p align="center">
