@@ -11,15 +11,15 @@
 <!-- Introduction -->
 <div align="center">
   <h1 style="color:#000000;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Monowar+Hossain+Shuvo;Backend+Software+Engineer;NLP+%26+LLM+Enthusiast" alt="Typing SVG" />
-</h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=EE4C2C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Monowar+Hossain+Shuvo;Backend+Software+Engineer;LLMs+%26+Multimodal+AI+Enthusiast;Trustworthy+Healthcare+AI+Researcher" alt="Typing SVG" />
+  </h1>
   
   <p align="left" style="color:#000000; font-size: 18px; max-width: 800px; margin: 20px auto;">
     💻 Backend Software Engineer
     <br>
-    🛠️ Focused on scalable system design and backend architecture
+    🛠️ Focused on scalable systems and backend architecture
     <br>
-    🚀 Exploring and Learning LLMs, Multimodal AI & Knowledge Graphs
+    🚀 LLMs & Multimodal AI | Trustworthy Healthcare AI Research
   </p>
 
   <!-- <p align="center">
