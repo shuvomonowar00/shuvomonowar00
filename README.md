@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="GitHub" />
 <!-- <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon&logoColor=white&style=for-the-badge" height="30" alt="AWS" /> -->
 <!-- <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge" height="30" alt="Kafka" /> -->
-<!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="Ubuntu" /> -->
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="Ubuntu" />
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="Kubernetes" /> -->
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" height="30" alt="GitHub Actions" />
 
