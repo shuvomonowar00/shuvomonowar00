@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="NumPy" />
 <!-- <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" height="30" alt="LangChain" /> -->
-<!-- <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="Pandas" /> -->
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="Pandas" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" height="30" alt="Hugging Face" />
 <!-- <img src="https://img.shields.io/badge/LangGraph-1D435F?logo=langchain&logoColor=white&style=for-the-badge" height="30" alt="LangGraph" /> -->
 <!-- <img src="https://img.shields.io/badge/ChromaDB-000000?logo=chromadb&logoColor=white&style=for-the-badge" height="30" alt="ChromaDB" /> -->
